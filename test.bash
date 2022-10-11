@@ -1,3 +1,3 @@
 #!/bin/bash
 
-alias u='echo unko'
+echo "alias u='echo unko'" >>  ~/.bashrc
